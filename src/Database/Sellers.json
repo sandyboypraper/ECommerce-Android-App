@@ -1,0 +1,32 @@
+{
+    "sellers" : [
+        {   
+            "id" : 1,
+            "title" : "kelashi pede wale",
+            "tagLine" : "khush rho tandrusst rho",
+            "Adress" : "main market near relians tower kirawali agra",
+            "Image" : ""
+        },
+        {
+            "id" : 2,
+            "title" : "Agrwal clothing store",
+            "tagLine":"apna sapna mony mony",
+            "Adress" : "main market agra",
+            "Image" : ""
+        },
+        {
+            "id" : 3,
+            "title" : "Panchi petha",
+            "tagLine":"Beverage , cool lassy",
+            "Adress" : "Agra",
+            "Image" : ""
+        },
+        {
+            "id" : 4,
+            "title" : "rakesh Mobile shop",
+            "tagLine" : "hey boy",
+            "Adress" : "kirawali NH-55 Fatehpur sikri road",
+            "Image" : ""
+        }
+    ]
+}

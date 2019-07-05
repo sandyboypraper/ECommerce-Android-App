@@ -1,0 +1,1 @@
+export default Serverurl = () => "http://192.168.43.249:8000/ecommerce";

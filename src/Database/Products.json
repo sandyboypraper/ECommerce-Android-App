@@ -1,0 +1,140 @@
+{
+    "products" : [
+        {
+            "id" : 1,
+            "sellerid" : 1,
+            "name" : "Khoya peda",
+            "Price" : "120/kg",
+            "Previous-Price" : "150/kg",
+            "discount" : "30%" 
+        },
+        {
+            "id" : 2,
+            "sellerid" : 1,
+            "name" : "metha peda",
+            "Price" : "120/kg",
+            "Previous-Price" : "150/kg",
+            "discount" : "30%" 
+        },
+        {
+            "id" : 3,
+            "sellerid" : 1,
+            "name" : "namkeen peda",
+            "Price" : "120/kg",
+            "Previous-Price" : "150/kg",
+            "discount" : "30%" 
+        },
+        {
+            "id" : 4,
+            "sellerid" : 2,
+            "name" : "jeans",
+            "Price" : "120/kg",
+            "Previous-Price" : "150/kg",
+            "discount" : "30%" 
+        },
+        {
+            "id" : 5,
+            "sellerid" : 2,
+            "name" : "Tshirts",
+            "Price" : "120/kg",
+            "Previous-Price" : "150/kg",
+            "discount" : "30%" 
+        },
+        {
+            "id" : 6,
+            "sellerid" : 2,
+            "name" : "Denims",
+            "Price" : "120/kg",
+            "Previous-Price" : "150/kg",
+            "discount" : "30%" 
+        },
+        {
+            "id" : 7,
+            "sellerid" : 3,
+            "name" : "Mashahur gulabi pentha",
+            "Price" : "120/kg",
+            "Previous-Price" : "150/kg",
+            "discount" : "30%" 
+        },
+        {
+            "id" : 8,
+            "sellerid" : 3,
+            "name" : "akbari pentha",
+            "Price" : "120/kg",
+            "Previous-Price" : "150/kg",
+            "discount" : "30%" 
+        },
+        {
+            "id" : 9,
+            "sellerid" : 3,
+            "name" : "ungali chat jaoge",
+            "Price" : "120/kg",
+            "Previous-Price" : "150/kg",
+            "discount" : "30%" 
+        },
+        {
+            "id" : 10,
+            "sellerid" : 4,
+            "name" : "samsung",
+            "Price" : "120/kg",
+            "Previous-Price" : "150/kg",
+            "discount" : "30%" 
+        },
+        {
+            "id" : 11,
+            "sellerid" : 4,
+            "name" : "Apple",
+            "Price" : "120/kg",
+            "Previous-Price" : "150/kg",
+            "discount" : "30%" 
+        },
+        {
+            "id" : 12,
+            "sellerid" : 4,
+            "name" : "Motorola",
+            "Price" : "120/kg",
+            "Previous-Price" : "150/kg",
+            "discount" : "30%" 
+        },
+        {
+            "id" : 13,
+            "sellerid" : 4,
+            "name" : "Nokia",
+            "Price" : "120/kg",
+            "Previous-Price" : "150/kg",
+            "discount" : "30%" 
+        },
+        {
+            "id" : 14,
+            "sellerid" : 4,
+            "name" : "LG - TV",
+            "Price" : "120/kg",
+            "Previous-Price" : "150/kg",
+            "discount" : "30%" 
+        },
+        {
+            "id" : 15,
+            "sellerid" : 4,
+            "name" : "Max china Ear Phone",
+            "Price" : "120/kg",
+            "Previous-Price" : "150/kg",
+            "discount" : "30%" 
+        },
+        {
+            "id" : 16,
+            "sellerid" : 4,
+            "name" : "Samsun monile charger",
+            "Price" : "120/kg",
+            "Previous-Price" : "150/kg",
+            "discount" : "30%" 
+        },
+        {
+            "id" : 17,
+            "sellerid" : 4,
+            "name" : "Pata nahi",
+            "Price" : "120/kg",
+            "Previous-Price" : "150/kg",
+            "discount" : "30%" 
+        }
+    ]
+}
